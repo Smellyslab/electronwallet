@@ -9,4 +9,7 @@ Create new addresses, import from a WIF private key, or import from a brain wall
 
 Please consider donating if you find this tool useful.
 
-BTC: 3LnBzPmb3BkDUZBHLHdEj5vgxS6D6HjKLW
+Original creator, BTC: 3LnBzPmb3BkDUZBHLHdEj5vgxS6D6HjKLW
+ 
+ 
+i just added simple electron support to this lolz
