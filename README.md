@@ -1,4 +1,4 @@
-# jsWallet
+# jsWallet - fork electronwallet
  simple bitcoin javascript wallet with UTXO selection
  
  Demo: https://coinables.github.io/wallet/index.html
